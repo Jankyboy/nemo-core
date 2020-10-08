@@ -11,7 +11,7 @@
     "async": "^2.6.2",
     "confit": "^2.0.0",
     "debug": "^3.2.6",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "selenium-webdriver": "^3.4.0",
     "shortstop-handlers": "^1.0.0",
     "yargs": "^13.2.4"
